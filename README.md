@@ -13,3 +13,6 @@ function order(words){
 ```
 
 [KATA](https://www.codewars.com/kata/55c45be3b2079eccff00010f/javascript)
+<br>
+<br>
+[Medium](https://medium.com/@juneee/codewars-your-order-please-javascript-fc98db28132d)
